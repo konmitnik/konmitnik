@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konmitnik
 - 👀 I’m interested in programming, video games, books, movies and other mass multimedia arts.
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently diving deeper into C++ and learning UE5
 - 📫 How to reach me https://vk.com/konmitnik or https://t.me/konmitnik
 
 <!---
